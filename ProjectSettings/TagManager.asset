@@ -4,7 +4,8 @@
 TagManager:
   serializedVersion: 2
   tags:
-  - Zombie
+  - Fish
+  - ShowOnPause
   layers:
   - Default
   - TransparentFX
@@ -43,20 +44,20 @@ TagManager:
     uniqueID: 0
     locked: 0
   - name: Ground
-    uniqueID: 3190858709
+    uniqueID: 1012817075
     locked: 0
   - name: Player
-    uniqueID: 2160397519
+    uniqueID: 4070105079
     locked: 0
   - name: Enemies
-    uniqueID: 1943535743
+    uniqueID: 720020959
     locked: 0
   - name: FX
-    uniqueID: 3929846165
+    uniqueID: 2216479131
     locked: 0
   - name: Bullets
-    uniqueID: 3550176991
+    uniqueID: 2088842379
     locked: 0
   - name: Foreground
-    uniqueID: 2139227227
+    uniqueID: 3129406805
     locked: 0
