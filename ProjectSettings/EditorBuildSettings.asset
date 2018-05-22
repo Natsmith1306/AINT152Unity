@@ -9,6 +9,9 @@ EditorBuildSettings:
     path: Assets/Scenes/MainMenu.unity
     guid: 96f687c23cd50514abca8925de0b2df7
   - enabled: 1
+    path: Assets/Scenes/InformationScreen.unity
+    guid: d6b9079d49d30b247b5b8a35298e2c78
+  - enabled: 1
     path: Assets/Scenes/Ocean Shooter Level.unity
     guid: c97263634db1af44689313fee56fb62c
   - enabled: 1
